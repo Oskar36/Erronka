@@ -1,4 +1,4 @@
-package eb1;
+package KEKW;
 
 
 import java.awt.EventQueue;
